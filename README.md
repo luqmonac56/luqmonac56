@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @luqmonac56.
 - 👀 I’m interested in web development.
-- 🌱 I’m currently learning Nuxt js and vue js , although I'm hoping to get better with my JavaScript along the line. 
+- 🌱 I’m currently learning Next js and React js , although I'm hoping to get better with my typescript along the line. 
 - 💞️ I’m looking to collaborate on any web development project
 - 📫 How to reach me is by my email => luqmonac5@gmail.com .
 
